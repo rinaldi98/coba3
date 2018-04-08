@@ -6,4 +6,15 @@ public class PapanSelancar {
 
      void throttle(){
         System.out.println("rifcul amerika");
-  }
+  
+     }
+     
+    public String getjenisPapanSeluncur(){
+        return jenisPapanSeluncur;
+}
+ 
+    public void setjenisPapanSelucur(String jenisPapanSeluncur){
+        this.jenisPapanSeluncur = jenisPapanSeluncur;
+    }
+}
+
